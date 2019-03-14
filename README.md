@@ -1,5 +1,5 @@
 # Fair Game Reveal of Eos.
-# We are the fast!
+# We are the fastest!
 Get Sign ---> User Bet
 Get Sign ---> Reveal
 
