@@ -6,7 +6,7 @@ Get Sign ---> Reveal
 
 The key is to start reveal action after responsing signature request.
 
-# TODO:
+# Todo:
 * Ensure reveal after bet actions.
 
 # Build:
