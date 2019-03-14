@@ -11,8 +11,11 @@
   "dependencies": {
     "bee-queue": "^1.2.2",
     "config": "^3.0.0",
+    "debug": "^4.1.1",
     "eosjs": "^16.0.9",
     "mongoose": "^4.1.2",
+    "mpath": "^0.5.1",
+    "ms": "^2.1.1",
     "node-fetch": "^2.3.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.2",
