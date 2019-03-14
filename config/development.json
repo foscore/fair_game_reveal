@@ -1,0 +1,12 @@
+{
+  "nodeos_url": "http://jungle2.cryptolions.io:80",
+  "table": {
+    "code": "gooddicegame",
+    "scope": "gooddicegame",
+    "table": "bets"
+  },
+  "rpc_url": "http://jungle2.cryptolions.io:80",
+  "account": "gooddicegame",
+  "authorizationActor": "dicereveal11",
+  "chainId": "e70aaab8997e1dfce58fbfac80cbbb8fecec7b99cf982a9444273cbc64c41473"
+}

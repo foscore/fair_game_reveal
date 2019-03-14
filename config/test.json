@@ -1,0 +1,9 @@
+{
+  "nodeos_url": "http://jungle2.cryptolions.io:80",
+  "table": {
+    "code": "gooddicegame",
+    "scope": "gooddicegame",
+    "table": "bets"
+  },
+  "rpc_url": "http://jungle2.cryptolions.io:80"
+}

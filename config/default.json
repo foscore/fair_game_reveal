@@ -1,0 +1,11 @@
+{
+  "nodeos_url" : "http://jungle2.cryptolions.io:80",
+  "eos_account_name": "eosio.token" ,
+  "bequeueName": "seedQueue",
+  "numOfWorkersForBeeQueue": 1,
+  "ExpireTimeSpanInHour": 76,
+  "TimeIntervalOfFetchingTable": 300,
+  "TimeIntervalOfSearchingMongo": 200,
+  "TimeIntervalOfReval": 300,
+  "MaxRetryNumOfReveal": 3
+}

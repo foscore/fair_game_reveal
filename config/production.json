@@ -1,0 +1,11 @@
+{
+  "nodeos_url": "https://eos.greymass.com",
+  "table": {
+    "code": "gooddicegame",
+    "scope": "gooddicegame",
+    "table": "bets"
+  },
+  "rpc_url": "https://eos.greymass.com",
+  "account": "gooddicegame",
+  "authorizationActor": "dicereveal11"
+}
