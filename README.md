@@ -1,4 +1,4 @@
-# Fair Game Reveal
+# Fair Game Reveal of Eos.
 # We are the fast!
 Get Sign ---> User Bet
 Get Sign ---> Reveal
